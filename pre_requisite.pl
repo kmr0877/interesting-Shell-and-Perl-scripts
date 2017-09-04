@@ -2,8 +2,8 @@
 use strict;
 
 my $course = $ARGV[0];
-my $url1 = "http://www.handbook.unsw.edu.au/undergraduate/courses/2017/$course.html";
-my $url2 = "http://www.handbook.unsw.edu.au/postgraduate/courses/2017/$course.html";
+my $url1 = "http://www.handbook.unsw.edu.au/undergraduate/courses/2018/$course.html";
+my $url2 = "http://www.handbook.unsw.edu.au/postgraduate/courses/2018/$course.html";
 my @urls = ();
 
 push @urls, $url1;
