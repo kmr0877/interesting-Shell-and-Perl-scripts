@@ -9,3 +9,5 @@ If the conversion is succesful the JPEG file should be removed.
 ## _email_image.sh_
 A shell script email_image.sh which given a list of image files as arguments displays them one-by-one. After the user has viewed each image the script will prompt the user for an e-mail address. If the user does enter an email address, the script will prompt the user for a message to accompany the image and then send the image to the specified e-mail address. 
 
+## _Pre_requisite.pl_
+A Perl script which prints courses which can be used to meet prerequisite requirements for a UNSW course.The script will download the UNSW handbook web pages and extract the information from them when it is run and will print the courses in alphabetic order.
