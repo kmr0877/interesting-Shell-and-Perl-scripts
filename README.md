@@ -12,5 +12,5 @@ A shell script email_image.sh which given a list of image files as arguments dis
 ## _Pre_requisite.pl_
 A Perl script which prints courses which can be used to meet prerequisite requirements for a UNSW course.The script will download the UNSW handbook web pages and extract the information from them when it is run and will print the courses in alphabetic order.
 
-## _Unsw_courses.pl _
+## _unsw_courses.pl _
 A Perl script unsw_courses.pl prints the course codes with a given prefix of all UNSW courses with lectures on the Kensington Campus in present session(2017).You can change the year and search accordingly. 
