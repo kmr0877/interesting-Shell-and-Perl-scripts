@@ -14,3 +14,8 @@ A Perl script which prints courses which can be used to meet prerequisite requir
 
 ## _unsw_courses.pl _
 A Perl script unsw_courses.pl prints the course codes with a given prefix of all UNSW courses with lectures on the Kensington Campus in present session(2017).You can change the year and search accordingly. 
+
+## _bash2perl.pl_
+A Perl program bash2perl.pl which takes a Bash script as input and outputs an equivalent Perl program.
+The Shell (Bash) scripts which do arithmetic calculations which we need to translate to Perl. 
+The scripts use the arithmetic syntax supported by Bash (and several other shells). Fortunately the scripts only use a very limited set of shell features. 
